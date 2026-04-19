@@ -1,0 +1,17 @@
+{
+  "description": "个人博客网站",
+  "owner": {
+    "name": "xuhang zhou",
+    "github": "xuhang18",
+    "email": "z18708118788@gmail.com"
+  },
+  "records": [
+    {
+      "type": "A",
+      "name": "@",
+      "content": "115.190.131.200",
+      "ttl": 3600,
+      "proxied": false
+    }
+  ]
+}
